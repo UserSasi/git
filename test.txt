@@ -1,1 +1,2 @@
 Selenium is a popular open-source framework used for automating web browser interactions, primarily for testing web applications. It allows testers to simulate user actions like clicking buttons, filling forms, and navigating between pages, making it useful for functional, compatibility, and regression testing. 
+1 update
